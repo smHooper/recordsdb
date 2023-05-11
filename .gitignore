@@ -1,3 +1,6 @@
+# ignore website attachments
+recordsdb/web/attachments/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
